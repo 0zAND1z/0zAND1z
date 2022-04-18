@@ -1,6 +1,6 @@
 ### Some times a code Garden, and other times a Graveyard!
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=0zAND1z" alt="CodersRank Summary" width="512"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=0zAND1z" alt="CodersRank Summary"/>
 
 
 <!--
